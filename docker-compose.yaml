@@ -43,4 +43,3 @@ services:
       - ./src/main/resources/database/initdb.d/:/docker-entrypoint-initdb.d/
       - ./src/main/resources/database/initdb.d/:/docker-entrypoint-initdb.d/
 
-
